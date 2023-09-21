@@ -1,2 +1,2 @@
 # naavyaproject
-Calculator using HTML, CSS
+Calculator using HTML, CSS & JAVA SCRIPT
